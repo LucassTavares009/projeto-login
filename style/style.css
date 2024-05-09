@@ -204,6 +204,15 @@ body {
         border-bottom-left-radius: 18px;
     }
 
+    .form-heading {
+        font-size: 2em;
+    }
+
+    .form-txt {
+        font-size: 1em;
+        margin: 20px 0px;
+    }
+
     .input-login {
         width: 405px;
     }
